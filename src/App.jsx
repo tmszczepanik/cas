@@ -171,7 +171,11 @@ function App() {
         <section className="hero section-wrap" id="start">
           <div className="hero-copy">
             <p className="eyebrow"><span /> Centrum Aktywności Seniora · Kraków</p>
-            <h1>Dobre relacje <em>w dobrym miejscu.</em></h1>
+            <h1>
+              Dobre relacje
+              <br />
+              <em>w dobrym miejscu.</em>
+            </h1>
             <p className="hero-description">
               Zapraszamy do Krainy Dobrych Relacji — miejsca spotkań,
               aktywności i życzliwej atmosfery. Sprawdź, co dzieje się
